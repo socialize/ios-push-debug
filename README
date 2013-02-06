@@ -7,8 +7,9 @@ independent of Socialize.
 
 Using the scripts:
 
-1) Run p12_to_pem.sh <p12>
-  e.g., ./p12_to_pem ~/Desktop/my.p12
+1) Run p12_to_pem.sh <p12> 
+(Remember to specify the location of your p12 file.)
+  ./p12_to_pem ~/Desktop/my.p12
 
 2) Run push.py <TOKEN>
   e.g. ./push.py FE66489F304DC75B8D6E8200DFF8A456E8DAEACEC428B427E9518741C92C6660
