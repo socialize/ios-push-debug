@@ -1,14 +1,13 @@
-======================
-Push Debugging Scripts
-======================
+
+#Push Debugging Scripts
+
 
 This is a set of scripts that can be used for testing push functionality in an app,
 independent of Socialize.
 
 Using the scripts:
 
-1) Run p12_to_pem.sh <p12>
-(Remember to specify the location of your p12 file.)
+ - Run p12_to_pem.sh <p12> (Remember to specify the location of your p12 file.)
     ./p12_to_pem ~/Desktop/my.p12
 
 2) Run push.py <TOKEN>
