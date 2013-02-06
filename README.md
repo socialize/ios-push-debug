@@ -1,4 +1,3 @@
-
 #Push Debugging Scripts
 
 
@@ -8,6 +7,7 @@ independent of Socialize.
 Using the scripts:
 
  - Run p12_to_pem.sh <p12> (Remember to specify the location of your p12 file.)
+
     ./p12_to_pem ~/Desktop/my.p12
 
 2) Run push.py <TOKEN>
