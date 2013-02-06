@@ -1,7 +1,7 @@
 #Push Debugging Scripts
 
 
-This is a set of scripts that can be used for testing push functionality in an app,
+> This is a set of scripts that can be used for testing push functionality in an app,
 independent of Socialize.
 
 Using the scripts:
